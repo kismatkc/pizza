@@ -14,7 +14,7 @@ function Pizza() {
   return (
     <div>
       <img src="pizzas/focaccia.jpg" alt="focaccia pizza"></img>
-      <h2>Pizza kis</h2>
+      <h2>Pizza kisdddd</h2>
       <p>Tomato,mozoralla,spinich and ricotta cheese</p>
     </div>
   );
